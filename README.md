@@ -17,4 +17,4 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-clone: https://github.com/DS202-at-ISU/lab-1-lab1_team13.git
+add one line
