@@ -19,11 +19,9 @@ you are done with your submission.
 
 This is a line from RStudio.
 
-<<<<<<< HEAD
 This is another line from RStudio. 
-=======
+
 The file would not open on everyone's laptops, Abi's access was denied to save the changes "Error saving; access denied".
 We struggled to understand how the push/pull works in Github. 
 We didn't realize we needed to install Git to make this process run smoothly. 
-All of class time was spent trying to understand the lab instrustions. Finding a time to meet, outside of class, was challenging.
->>>>>>> d829f94c0aa3fc841ef1b9d5696547de0ddd1d77
+All of class time was spent trying to understand the lab instructions. Finding a time to meet, outside of class, was challenging.
