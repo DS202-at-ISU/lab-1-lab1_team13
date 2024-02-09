@@ -19,4 +19,7 @@ you are done with your submission.
 
 This is a line from RStudio.
 
-We struggled to understand how the push/pull works in Github. We didn't realize we needed to install Git to make this process run smoothly. 
+The file would not open on everyone's laptops, Abi's access was denied to save the changes "Error saving; access denied".
+We struggled to understand how the push/pull works in Github. 
+We didn't realize we needed to install Git to make this process run smoothly. 
+All of class time was spent trying to understand the lab instrustions, finding a time to meet, outside of class, was challenging.
