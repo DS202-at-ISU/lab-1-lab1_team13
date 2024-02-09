@@ -21,6 +21,8 @@ This is a line from RStudio.
 
 This is another line from RStudio. 
 
+This is, once again, another line from RStudio.
+
 The file would not open on everyone's laptops, Abi's access was denied to save the changes "Error saving; access denied".
 We struggled to understand how the push/pull works in Github. 
 We didn't realize we needed to install Git to make this process run smoothly. 
