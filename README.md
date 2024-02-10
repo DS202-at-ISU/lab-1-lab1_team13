@@ -30,3 +30,5 @@ We didn't realize we needed to install Git to make this process run smoothly.
 All of class time was spent trying to understand the lab instructions. Finding a time to meet, outside of class, was challenging.
 The file would not open on everyone's laptops, Abi's access was denied to save the changes "Error saving; access denied".
 I struggled to get my email and username saved for the configuration, in order to push and pull the code. 
+
+Melania - I didn't realize I needed to install Git to be able to make this specific type of project. So, I installed Git to fix that problem. I was also confusing myself thinking that this was a file everyone could edit simultaneously, but what I needed to do was keep reading the directions and realizing that one person edits and makes changes, but everyone has access to the same file and can see those changes once they are pushed.
