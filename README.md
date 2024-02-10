@@ -22,7 +22,8 @@ This is a line from RStudio.
 This is another line from RStudio. 
 
 This is, once again, another line from RStudio.
-Test line 
+Test line
+Test line1
 
 We struggled to understand how the push/pull works in Github. 
 We didn't realize we needed to install Git to make this process run smoothly. 
