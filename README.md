@@ -32,3 +32,5 @@ The file would not open on everyone's laptops, Abi's access was denied to save t
 I struggled to get my email and username saved for the configuration, in order to push and pull the code. 
 
 Melania - I didn't realize I needed to install Git to be able to make this specific type of project. So, I installed Git to fix that problem. I was also confusing myself thinking that this was a file everyone could edit simultaneously, but what I needed to do was keep reading the directions and realizing that one person edits and makes changes, but everyone has access to the same file and can see those changes once they are pushed.
+
+Niraj - I haven't faced any problem on downloding the Git hub.I tried to pull it and I got that text saying that "Already updated"" but when I tried to push it ask verification of Gib hub account. I tried many times but I couldn't push the thing. At last, I made the personal access token(classic) for Verification. After this I able to pushed.  
