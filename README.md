@@ -53,3 +53,5 @@ needed to install Git. I confirmed I installed Git and retryed but could
 not get it to work. I look forward to figuring this problem out, however
 I can not as of right now as I have verified everything has been
 downloaded but am still getting error messages.
+
+this is some example add one more line
