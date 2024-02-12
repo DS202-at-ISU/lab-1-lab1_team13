@@ -46,3 +46,5 @@ Niraj - I haven't faced any problem on downloding the Git hub.I tried to pull it
 Chris - I was unable to understand how to link Git to Rstudio. I got to our teams file on Github and was able to open it however when trying to acsess it with R studio it prompted me with an error message saying I needed to install Git. I confirmed I installed Git and retryed but could not get it to work. I look forward to figuring this problem out, however I can not as of right now as I have verified everything has been downloaded but am still getting error messages.
 
 this is some example add one more line
+
+this is a line from R studio
